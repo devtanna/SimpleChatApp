@@ -1,0 +1,28 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"nothing yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devtanna/SimpleChatApp.git"
+  },
+  "keywords": [
+    "simple",
+    "chat",
+    "app"
+  ],
+  "author": "Dev Tanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devtanna/SimpleChatApp/issues"
+  },
+  "homepage": "https://github.com/devtanna/SimpleChatApp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
